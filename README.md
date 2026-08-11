@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Arif Dwi!
-### 🚀 Full-Stack Web Developer | Hospital Information System (SIMRS) Specialist
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Arif%20Dwi&fontSize=56&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20SIMRS%20Specialist&descAlignY=62&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;SIMRS+%26+ERM+Specialist;PHP+%7C+CodeIgniter+%7C+PostgreSQL;Building+Impactful+Healthcare+Apps)](https://git.io/typing-svg)
 
@@ -72,6 +71,20 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arifdwi332/Arifdwi332/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arifdwi332/Arifdwi332/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arifdwi332/Arifdwi332/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arifdwi332/Arifdwi332/main/profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arifdwi332/Arifdwi332/main/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="Arifdwi332 3D Contribution Graph" src="https://raw.githubusercontent.com/Arifdwi332/Arifdwi332/main/profile-3d-contrib/profile-night-view.svg">
 </picture>
 
 </div>
