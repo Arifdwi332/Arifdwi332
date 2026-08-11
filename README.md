@@ -52,8 +52,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arifdwi332&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arifdwi332 GitHub Stats" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifdwi332&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
+<img src="https://raw.githubusercontent.com/Arifdwi332/Arifdwi332/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Arifdwi332 GitHub Stats" height="190"/>
+<img src="https://raw.githubusercontent.com/Arifdwi332/Arifdwi332/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" height="190"/>
 
 <br><br>
 
